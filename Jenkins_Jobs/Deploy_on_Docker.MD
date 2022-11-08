@@ -47,4 +47,4 @@ Enable connection between Docker-host and Jenkins
 	       - Remote directory: `//home//ansadmin` or `.`
 	 
 
-Save and run the job now.
+Save, run noe the job will be accomplished.
